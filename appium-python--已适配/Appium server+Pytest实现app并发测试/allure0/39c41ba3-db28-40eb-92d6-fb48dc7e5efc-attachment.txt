@@ -1,0 +1,16 @@
+INFO     root:app_driver_auto_server.py:31 appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 17:53:30 2022
+INFO     root:app_driver_auto_server.py:48 appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 17:53:32 2022
+INFO     selenium.webdriver.remote.remote_connection:remote_connection.py:116 Could not connect to port 4723 on host 127.0.0.1
+INFO     selenium.webdriver.remote.remote_connection:remote_connection.py:135 Could not get IP address for host: 127.0.0.1
+INFO     root:conftest.py:12 ================ 开始执行 < 登录模块 > 测试用例================
+INFO     root:base_page.py:64 点击我的：点击页面元素：('xpath', '//*[contains(@content-desc,"4之4")]')
+INFO     root:base_page.py:90 判断是否已登录：页面元素：('xpath', "//*[@text='登录']") 存在
+INFO     root:base_page.py:64 点击登录页面：点击页面元素：('xpath', "//*[@text='登录']")
+INFO     root:base_page.py:71 清空内容
+INFO     root:base_page.py:73 输入账号：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/arv"]') 输入：xxx123@163.com
+INFO     root:base_page.py:64 ：点击页面元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]')
+INFO     root:base_page.py:71 清空内容
+INFO     root:base_page.py:73 输入密码：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]') 输入：xxx123
+INFO     root:base_page.py:64 点击登录按钮：点击页面元素：('xpath', "//*[@text='开始使用']")
+INFO     root:base_page.py:247 None,toast信息:请先勾选同意《服务条款》、《隐私政策》和《儿童隐私政策》
+INFO     root:conftest.py:16 ================ 结束 < 登录模块 > 测试用例================

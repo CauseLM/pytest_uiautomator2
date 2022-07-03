@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCases.login",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestGesture",
+        "children" : [ {
+          "name" : "test_error_not_agree[data0]",
+          "uid" : "15db7bb7008c7e02",
+          "parentUid" : "a666f3a9631750ed4d86e3e18a722eb0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1651312422737,
+            "stop" : 1651312435094,
+            "duration" : 12357
+          },
+          "flaky" : false,
+          "parameters" : [ "{'name': '登录功能-协议异常-未同意协议', 'username': 'xxx123@163.com', 'password': 'xxx123', 'agree': False, 'success': False, 'except': '请先勾选同意'}" ]
+        } ],
+        "uid" : "a666f3a9631750ed4d86e3e18a722eb0"
+      } ],
+      "uid" : "9a59663a1601e295dee59b72def917f0"
+    } ],
+    "uid" : "8771b93e74b992f83fcc1867abbdc29f"
+  } ]
+}

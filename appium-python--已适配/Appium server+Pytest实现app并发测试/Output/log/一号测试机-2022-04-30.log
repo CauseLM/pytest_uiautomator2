@@ -1,0 +1,66 @@
+2022-04-30 16:13:10,523 INFO [root] [app_driver_auto_server.py (__init__:31] - appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 16:13:10 2022
+2022-04-30 16:13:12,531 INFO [root] [app_driver_auto_server.py (get_base_driver:48] - appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 16:13:12 2022
+2022-04-30 16:13:13,534 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116] - Could not connect to port 4723 on host 127.0.0.1
+2022-04-30 16:13:13,534 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135] - Could not get IP address for host: 127.0.0.1
+2022-04-30 16:13:22,673 INFO [root] [conftest.py (page_driver:12] - ================ 开始执行 < 登录模块 > 测试用例================
+2022-04-30 16:13:24,482 INFO [root] [base_page.py (base_click:64] - 点击我的：点击页面元素：('xpath', '//*[contains(@content-desc,"4之4")]')
+2022-04-30 16:13:25,096 INFO [root] [base_page.py (base_element_is_exist:90] - 判断是否已登录：页面元素：('xpath', "//*[@text='登录']") 存在
+2022-04-30 16:13:26,280 INFO [root] [base_page.py (base_click:64] - 点击登录页面：点击页面元素：('xpath', "//*[@text='登录']")
+2022-04-30 16:13:28,156 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 16:13:29,192 INFO [root] [base_page.py (base_input_text:73] - 输入账号：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/arv"]') 输入：xxx123@163.com
+2022-04-30 16:13:29,854 INFO [root] [base_page.py (base_click:64] - ：点击页面元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]')
+2022-04-30 16:13:30,489 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 16:13:31,715 INFO [root] [base_page.py (base_input_text:73] - 输入密码：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]') 输入：xxx123
+2022-04-30 16:13:32,901 INFO [root] [base_page.py (base_click:64] - 点击登录按钮：点击页面元素：('xpath', "//*[@text='开始使用']")
+2022-04-30 16:13:34,476 INFO [root] [base_page.py (base_get_toast:247] - None,toast信息:请先勾选同意《服务条款》、《隐私政策》和《儿童隐私政策》
+2022-04-30 16:13:34,974 INFO [root] [conftest.py (page_driver:16] - ================ 结束 < 登录模块 > 测试用例================
+2022-04-30 17:42:37,244 INFO [root] [app_driver_auto_server.py (__init__:31] - appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 17:42:37 2022
+2022-04-30 17:42:39,266 INFO [root] [app_driver_auto_server.py (get_base_driver:48] - appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 17:42:39 2022
+2022-04-30 17:42:40,268 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116] - Could not connect to port 4723 on host 127.0.0.1
+2022-04-30 17:42:40,268 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135] - Could not get IP address for host: 127.0.0.1
+2022-04-30 17:43:24,841 INFO [root] [app_driver_auto_server.py (__init__:31] - appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 17:43:24 2022
+2022-04-30 17:43:24,876 INFO [root] [app_driver_auto_server.py (get_base_driver:48] - appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 17:43:24 2022
+2022-04-30 17:43:38,209 INFO [root] [conftest.py (page_driver:12] - ================ 开始执行 < 登录模块 > 测试用例================
+2022-04-30 17:43:40,087 INFO [root] [base_page.py (base_click:64] - 点击我的：点击页面元素：('xpath', '//*[contains(@content-desc,"4之4")]')
+2022-04-30 17:43:40,755 INFO [root] [base_page.py (base_element_is_exist:90] - 判断是否已登录：页面元素：('xpath', "//*[@text='登录']") 存在
+2022-04-30 17:43:41,958 INFO [root] [base_page.py (base_click:64] - 点击登录页面：点击页面元素：('xpath', "//*[@text='登录']")
+2022-04-30 17:43:43,863 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:43:44,886 INFO [root] [base_page.py (base_input_text:73] - 输入账号：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/arv"]') 输入：xxx123@163.com
+2022-04-30 17:43:46,095 INFO [root] [base_page.py (base_click:64] - ：点击页面元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]')
+2022-04-30 17:43:46,143 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:43:47,373 INFO [root] [base_page.py (base_input_text:73] - 输入密码：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]') 输入：xxx123
+2022-04-30 17:43:48,578 INFO [root] [base_page.py (base_click:64] - 点击登录按钮：点击页面元素：('xpath', "//*[@text='开始使用']")
+2022-04-30 17:43:50,154 INFO [root] [base_page.py (base_get_toast:247] - None,toast信息:请先勾选同意《服务条款》、《隐私政策》和《儿童隐私政策》
+2022-04-30 17:43:50,641 INFO [root] [conftest.py (page_driver:16] - ================ 结束 < 登录模块 > 测试用例================
+2022-04-30 17:46:57,933 INFO [root] [app_driver_auto_server.py (__init__:31] - appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 17:46:57 2022
+2022-04-30 17:46:59,940 INFO [root] [app_driver_auto_server.py (get_base_driver:48] - appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 17:46:59 2022
+2022-04-30 17:47:00,944 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116] - Could not connect to port 4723 on host 127.0.0.1
+2022-04-30 17:47:00,944 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135] - Could not get IP address for host: 127.0.0.1
+2022-04-30 17:47:09,974 INFO [root] [conftest.py (page_driver:12] - ================ 开始执行 < 登录模块 > 测试用例================
+2022-04-30 17:47:11,837 INFO [root] [base_page.py (base_click:64] - 点击我的：点击页面元素：('xpath', '//*[contains(@content-desc,"4之4")]')
+2022-04-30 17:47:12,449 INFO [root] [base_page.py (base_element_is_exist:90] - 判断是否已登录：页面元素：('xpath', "//*[@text='登录']") 存在
+2022-04-30 17:47:13,637 INFO [root] [base_page.py (base_click:64] - 点击登录页面：点击页面元素：('xpath', "//*[@text='登录']")
+2022-04-30 17:47:15,363 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:47:16,592 INFO [root] [base_page.py (base_input_text:73] - 输入账号：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/arv"]') 输入：xxx123@163.com
+2022-04-30 17:47:17,243 INFO [root] [base_page.py (base_click:64] - ：点击页面元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]')
+2022-04-30 17:47:17,928 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:47:19,161 INFO [root] [base_page.py (base_input_text:73] - 输入密码：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]') 输入：xxx123
+2022-04-30 17:47:20,358 INFO [root] [base_page.py (base_click:64] - 点击登录按钮：点击页面元素：('xpath', "//*[@text='开始使用']")
+2022-04-30 17:47:21,944 INFO [root] [base_page.py (base_get_toast:247] - None,toast信息:请先勾选同意《服务条款》、《隐私政策》和《儿童隐私政策》
+2022-04-30 17:47:22,508 INFO [root] [conftest.py (page_driver:16] - ================ 结束 < 登录模块 > 测试用例================
+2022-04-30 17:53:30,721 INFO [root] [app_driver_auto_server.py (__init__:31] - appium -a 127.0.0.1 -p 4723 -bp 4724  at Sat Apr 30 17:53:30 2022
+2022-04-30 17:53:32,726 INFO [root] [app_driver_auto_server.py (get_base_driver:48] - appium port:4723 start run 127.0.0.1:4723 at Sat Apr 30 17:53:32 2022
+2022-04-30 17:53:33,729 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116] - Could not connect to port 4723 on host 127.0.0.1
+2022-04-30 17:53:33,729 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135] - Could not get IP address for host: 127.0.0.1
+2022-04-30 17:53:42,733 INFO [root] [conftest.py (page_driver:12] - ================ 开始执行 < 登录模块 > 测试用例================
+2022-04-30 17:53:44,556 INFO [root] [base_page.py (base_click:64] - 点击我的：点击页面元素：('xpath', '//*[contains(@content-desc,"4之4")]')
+2022-04-30 17:53:45,137 INFO [root] [base_page.py (base_element_is_exist:90] - 判断是否已登录：页面元素：('xpath', "//*[@text='登录']") 存在
+2022-04-30 17:53:46,339 INFO [root] [base_page.py (base_click:64] - 点击登录页面：点击页面元素：('xpath', "//*[@text='登录']")
+2022-04-30 17:53:48,284 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:53:49,321 INFO [root] [base_page.py (base_input_text:73] - 输入账号：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/arv"]') 输入：xxx123@163.com
+2022-04-30 17:53:50,527 INFO [root] [base_page.py (base_click:64] - ：点击页面元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]')
+2022-04-30 17:53:50,579 INFO [root] [base_page.py (base_input_text:71] - 清空内容
+2022-04-30 17:53:51,802 INFO [root] [base_page.py (base_input_text:73] - 输入密码：给元素：('xpath', '//*[@resource-id="com.netease.newsreader.activity:id/as9"]') 输入：xxx123
+2022-04-30 17:53:52,998 INFO [root] [base_page.py (base_click:64] - 点击登录按钮：点击页面元素：('xpath', "//*[@text='开始使用']")
+2022-04-30 17:53:54,568 INFO [root] [base_page.py (base_get_toast:247] - None,toast信息:请先勾选同意《服务条款》、《隐私政策》和《儿童隐私政策》
+2022-04-30 17:53:55,096 INFO [root] [conftest.py (page_driver:16] - ================ 结束 < 登录模块 > 测试用例================

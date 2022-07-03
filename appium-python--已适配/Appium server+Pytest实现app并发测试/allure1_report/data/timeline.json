@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOPPC",
+    "children" : [ {
+      "name" : "8524-MainThread",
+      "children" : [ {
+        "name" : "test_error_not_agree[data0]",
+        "uid" : "bcf294ea3ef93afc",
+        "parentUid" : "76653c2897b891769a68f0189757bd11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651312422806,
+          "stop" : 1651312435308,
+          "duration" : 12502
+        },
+        "flaky" : false,
+        "parameters" : [ "{'name': '登录功能-协议异常-未同意协议', 'username': 'xxx123@163.com', 'password': 'xxx123', 'agree': False, 'success': False, 'except': '请先勾选同意'}" ]
+      } ],
+      "uid" : "76653c2897b891769a68f0189757bd11"
+    } ],
+    "uid" : "66a09249a4357185c54234fa19f6da89"
+  } ]
+}

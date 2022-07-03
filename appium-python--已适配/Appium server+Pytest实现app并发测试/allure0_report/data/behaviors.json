@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "项目名称：xxx项目",
+    "children" : [ {
+      "name" : "登录模块",
+      "children" : [ {
+        "name" : "登录模块：未同意协议用例",
+        "children" : [ {
+          "name" : "test_error_not_agree[data0]",
+          "uid" : "15db7bb7008c7e02",
+          "parentUid" : "ab8e85c9b8c561e37f477c39ca2e2941",
+          "status" : "passed",
+          "time" : {
+            "start" : 1651312422737,
+            "stop" : 1651312435094,
+            "duration" : 12357
+          },
+          "flaky" : false,
+          "parameters" : [ "{'name': '登录功能-协议异常-未同意协议', 'username': 'xxx123@163.com', 'password': 'xxx123', 'agree': False, 'success': False, 'except': '请先勾选同意'}" ]
+        } ],
+        "uid" : "ab8e85c9b8c561e37f477c39ca2e2941"
+      } ],
+      "uid" : "92ec713a78f2f373c96a9058bc458e80"
+    } ],
+    "uid" : "affda24f4e26f374d13ce54a82dfcfc9"
+  } ]
+}

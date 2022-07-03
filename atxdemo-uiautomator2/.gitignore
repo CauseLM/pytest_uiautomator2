@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+keyconfig.py
+.pytest_cache
+logs/*
+.idea/*
+data/*
+reports/*
+screenshot/*
+myreportt/*

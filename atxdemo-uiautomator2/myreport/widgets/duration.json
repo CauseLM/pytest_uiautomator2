@@ -1,0 +1,11 @@
+[ {
+  "uid" : "531c86dbca320b6",
+  "name" : "test_find.TestFind.test_find",
+  "time" : {
+    "start" : 1544459544236,
+    "stop" : 1544459557293,
+    "duration" : 13057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

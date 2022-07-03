@@ -1,0 +1,9 @@
+# _*_ coding：utf-8 _*_
+
+automationName: uiautomator2
+platformVersion: 7.1.2
+platformName: Android
+appPackage: com.netease.newsreader.activity
+appActivity: com.netease.nr.phone.main.MainActivity
+noReset: True
+ip: "127.0.0.1"

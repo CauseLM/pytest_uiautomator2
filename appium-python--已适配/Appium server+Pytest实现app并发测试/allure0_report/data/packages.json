@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCases.login.test_login",
+    "children" : [ {
+      "name" : "test_error_not_agree[data0]",
+      "uid" : "15db7bb7008c7e02",
+      "parentUid" : "c43d15ae9d093c77565020dfc85f9dd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651312422737,
+        "stop" : 1651312435094,
+        "duration" : 12357
+      },
+      "flaky" : false,
+      "parameters" : [ "{'name': '登录功能-协议异常-未同意协议', 'username': 'xxx123@163.com', 'password': 'xxx123', 'agree': False, 'success': False, 'except': '请先勾选同意'}" ]
+    } ],
+    "uid" : "TestCases.login.test_login"
+  } ]
+}
